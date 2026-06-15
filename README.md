@@ -57,7 +57,7 @@ project/
 
 ```bash
 git clone https://github.com/Eshwar1210/AI-Support-Ticket-System.git
-cd project
+cd ai-support-system
 ```
 
 ### 2. Install Dependencies
